@@ -1,4 +1,4 @@
-### Hi there 👋
+### WELCOME TO TOOLS ME NGENTOT 👋
 
 <!--
 **IMIN-CYBER/IMIN-CYBER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=SELAMAT+DATANG+KONTOL+%3AD)](https://git.io/typing-svg)
